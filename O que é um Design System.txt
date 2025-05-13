@@ -16,3 +16,22 @@ características de um Design System.
 ## Documentação
 Diretrizes que descrevem as melhores
 formas de se utilizar cada elemento.
+
+
+## Todo design system parte de uma necessidade. Abaixo, temos algumas das problemáticas que design systems podem resolver:
+
+1. Falta de consistência visual: Garante que todos os elementos de interface tenham uma aparência consistente, criando uma identidade visual unificada para a marca.
+2. Desperdício de tempo: Economiza tempo dos designers e desenvolvedores, evitando a duplicação de esforços na criação de componentes e estilos.
+3. Atrasos no desenvolvimento: Agiliza o processo de desenvolvimento, uma vez que os componentes prontos para uso podem ser facilmente implementados.
+4. Manutenção trabalhosa: Facilita a manutenção contínua, uma vez que as atualizações de design podem ser aplicadas centralmente e refletidas em todos os produtos.
+5. Problemas de escalabilidade: Ajuda a manter a consistência à medida que produtos e equipes crescem.
+6. Dificuldade na colaboração: Facilita a colaboração entre designers e desenvolvedores, pois todos trabalham com um conjunto comum de recursos.
+7. Problemas de acessibilidade: Pode incluir diretrizes de acessibilidade, tornando mais fácil criar produtos acessíveis desde o início.
+8. Desafios de integração: Garante uma integração mais suave entre sistemas e aplicativos, pois os componentes são projetados para funcionar juntos.
+9. Comunicação ineficaz: Fornece uma linguagem comum para discutir design, evitando mal-entendidos.
+10. Má qualidade visual: Mantém a qualidade visual dos produtos, uma vez que os componentes são projetados com atenção aos detalhes.
+11. Falhas de usabilidade: Ajuda a criar produtos mais fáceis de usar, seguindo padrões de usabilidade testados.
+12. Desperdício de recursos: Reduz o desperdício de recursos financeiros e temporais no desenvolvimento de produtos.
+13. Mudanças constantes de design: Permite que as equipes de design experimentem e inovem dentro dos parâmetros do design system, mantendo a consistência.
+14. Custos elevados de treinamento: Simplifica o treinamento de novos membros da equipe, pois eles podem seguir as diretrizes do design system.
+15. Problemas de governança: Ajuda a manter um controle mais rígido sobre os ativos de design e como eles são usados.
