@@ -1,0 +1,18 @@
+## Um design System é um produto escalável que serve outros produtos.
+Por meio de sua biblioteca de padrões e diretrizes, 
+designers e desenvolvedores podem criar produtos
+digitais com mais agilidade e facilidade.
+
+
+## Guia de Estilo
+Guia que contém os elementos e componentes,
+suas interações e modo de uso.
+
+
+## Design Tokens
+Variáveis que representam todo tipo de
+características de um Design System.
+
+## Documentação
+Diretrizes que descrevem as melhores
+formas de se utilizar cada elemento.
